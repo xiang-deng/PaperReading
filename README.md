@@ -10,6 +10,8 @@ WebSRC: A Dataset for Web-Based Structural Reading Comprehension [https://arxiv.
 
 WEAKLY SUPERVISED NEURO-SYMBOLIC MODULE NETWORKS FOR NUMERICAL REASONING [https://arxiv.org/pdf/2101.02235.pdf]
 
+Can Small and Synthetic Benchmarks Drive Modeling Innovation? A Retrospective Study of Question Answering Modeling Approaches [https://arxiv.org/pdf/2102.01065.pdf]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
 
@@ -36,8 +38,16 @@ TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openr
 
 Promoting Graph Awareness in Linearized Graph-to-Text Generation [https://arxiv.org/pdf/2012.15793.pdf]
 
+Inducing Meaningful Units from Character Sequences with Slot Attention [https://arxiv.org/pdf/2102.01223.pdf]
+
+## Generation
+The GEM Benchmark:
+Natural Language Generation, its Evaluation and Metrics
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
 Certified Robustness to Adversarial Word Substitutions [https://arxiv.org/pdf/1909.00986.pdf]
+
+Neural Data Augmentation via Example Extrapolation [https://arxiv.org/pdf/2102.01335.pdf]
 
