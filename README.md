@@ -51,3 +51,7 @@ Certified Robustness to Adversarial Word Substitutions [https://arxiv.org/pdf/19
 
 Neural Data Augmentation via Example Extrapolation [https://arxiv.org/pdf/2102.01335.pdf]
 
+CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation [https://arxiv.org/pdf/2102.04664.pdf]
+
+Semi-supervised Event Argument Extraction via Dual Question Answering [https://www.aaai.org/AAAI21Papers/AAAI-2635.ZhouY.pdf]
+
