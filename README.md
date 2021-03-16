@@ -49,6 +49,12 @@ Technical Report on Data Integration and Preparation [https://arxiv.org/pdf/2103
 
 Neural Database Operator Model [https://research.fb.com/wp-content/uploads/2021/02/Neural-Database-Operator-Model.pdf]
 
+Relational Pretrained Transformers towards Democratizing Data Preparation [https://arxiv.org/pdf/2012.02469.pdf]
+
+Querying Heterogeneous Information Sources Using Source Descriptions [http://ilpubs.stanford.edu:8090/191/1/1996-61.pdf]
+
+Answering queries using views: A survey [http://www.diag.uniroma1.it//~degiacom/didattica/semingsoft/SIS05-06/materiale/2-integrazione/riferimenti/Halevy-survey-vldbj-01.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
