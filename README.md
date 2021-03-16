@@ -47,6 +47,8 @@ Natural Language Generation, its Evaluation and Metrics
 ## DB & KB
 Technical Report on Data Integration and Preparation [https://arxiv.org/pdf/2103.01986.pdf]
 
+Neural Database Operator Model [https://research.fb.com/wp-content/uploads/2021/02/Neural-Database-Operator-Model.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
