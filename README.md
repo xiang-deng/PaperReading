@@ -23,6 +23,8 @@ ERNIE-DOC: The Retrospective Long-Document Modeling Transformer [https://arxiv.o
 
 LIME: LEARNING INDUCTIVE BIAS FOR PRIMITIVES OF MATHEMATICAL REASONING [https://arxiv.org/pdf/2101.06223.pdf]
 
+Making Pre-trained Language Models Better Few-shot Learners [https://arxiv.org/pdf/2012.15723.pdf]
+
 On-the-Fly Attention Modularization for Neural Generation [https://arxiv.org/pdf/2101.00371.pdf]
 
 Prefix-Tuning: Optimizing Continuous Prompts for Generation [https://arxiv.org/pdf/2101.00190.pdf]
