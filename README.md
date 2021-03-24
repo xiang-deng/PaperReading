@@ -12,8 +12,12 @@ WEAKLY SUPERVISED NEURO-SYMBOLIC MODULE NETWORKS FOR NUMERICAL REASONING [https:
 
 Can Small and Synthetic Benchmarks Drive Modeling Innovation? A Retrospective Study of Question Answering Modeling Approaches [https://arxiv.org/pdf/2102.01065.pdf]
 
+MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES [https://openreview.net/pdf?id=ee6W5UgQLa]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
+
+Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering [https://arxiv.org/pdf/2007.00266.pdf]
 
 
 ## Pretraining
@@ -34,6 +38,10 @@ Studying Strategically: Learning to Mask for Closed-book QA [https://arxiv.org/p
 Representations for Question Answering from Documents with Tables and Text [https://arxiv.org/pdf/2101.10573.pdf]
 
 Muppet: Massive Multi-task Representations with Pre-Finetuning [https://arxiv.org/pdf/2101.11038.pdf]
+
+How Many Data Points is a Prompt Worth? [https://arxiv.org/pdf/2103.08493.pdf]
+
+Rethinking Relational Encoding in Language Model Pre-Training for General Sequences [https://arxiv.org/pdf/2103.10334.pdf]
 
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
