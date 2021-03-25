@@ -65,6 +65,10 @@ Querying Heterogeneous Information Sources Using Source Descriptions [http://ilp
 
 Answering queries using views: A survey [http://www.diag.uniroma1.it//~degiacom/didattica/semingsoft/SIS05-06/materiale/2-integrazione/riferimenti/Halevy-survey-vldbj-01.pdf]
 
+Natural Language Inference over Tables: Enabling Explainable Data Exploration on Data Lakes [https://openreview.net/pdf/c6b759e2420cdaf517b3b98243b7f9e1da6d6ae6.pdf]
+
+Logic Embeddings for Complex Query Answering [https://arxiv.org/pdf/2103.00418.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
