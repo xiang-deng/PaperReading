@@ -14,6 +14,8 @@ Can Small and Synthetic Benchmarks Drive Modeling Innovation? A Retrospective St
 
 MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES [https://openreview.net/pdf?id=ee6W5UgQLa]
 
+Complementary Evidence Identification in Open-Domain Question Answering [https://arxiv.org/pdf/2103.11643.pdf]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
 
@@ -43,6 +45,10 @@ How Many Data Points is a Prompt Worth? [https://arxiv.org/pdf/2103.08493.pdf]
 
 Rethinking Relational Encoding in Language Model Pre-Training for General Sequences [https://arxiv.org/pdf/2103.10334.pdf]
 
+Controllable Generation from Pre-trained Language Models via Inverse Prompting [https://arxiv.org/pdf/2103.10685.pdf]
+
+Attribute Alignment: Controlling Text Generation from Pre-trained Language Models [https://arxiv.org/pdf/2103.11070.pdf]
+
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
 
@@ -69,6 +75,10 @@ Natural Language Inference over Tables: Enabling Explainable Data Exploration on
 
 Logic Embeddings for Complex Query Answering [https://arxiv.org/pdf/2103.00418.pdf]
 
+From Natural Language Processing to Neural Databases [http://www.vldb.org/pvldb/vol14/p1033-thorne.pdf]
+
+Noah: Creating Data Integration Pipelines over Continuously Extracted Web Data [http://ceur-ws.org/Vol-2841/PIE+Q_3.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
@@ -79,4 +89,6 @@ Neural Data Augmentation via Example Extrapolation [https://arxiv.org/pdf/2102.0
 CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation [https://arxiv.org/pdf/2102.04664.pdf]
 
 Semi-supervised Event Argument Extraction via Dual Question Answering [https://www.aaai.org/AAAI21Papers/AAAI-2635.ZhouY.pdf]
+
+Representing Numbers in NLP: a Survey and a Vision [https://arxiv.org/pdf/2103.13136.pdf]
 
