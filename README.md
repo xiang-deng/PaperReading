@@ -49,6 +49,10 @@ Controllable Generation from Pre-trained Language Models via Inverse Prompting [
 
 Attribute Alignment: Controlling Text Generation from Pre-trained Language Models [https://arxiv.org/pdf/2103.11070.pdf]
 
+Unified Pre-training for Program Understanding and Generation [https://arxiv.org/pdf/2103.06333.pdf]
+
+BASE Layers: Simplifying Training of Large, Sparse Models [https://arxiv.org/pdf/2103.16716.pdf]
+
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
 
@@ -79,6 +83,10 @@ From Natural Language Processing to Neural Databases [http://www.vldb.org/pvldb/
 
 Noah: Creating Data Integration Pipelines over Continuously Extracted Web Data [http://ceur-ws.org/Vol-2841/PIE+Q_3.pdf]
 
+Annotating Columns with Pre-trained Language Models [https://arxiv.org/pdf/2104.01785.pdf]
+
+Survey on semantic data integration approaches: Issues and directions [http://www.semantic-web-journal.net/system/files/swj2756.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
@@ -92,3 +100,6 @@ Semi-supervised Event Argument Extraction via Dual Question Answering [https://w
 
 Representing Numbers in NLP: a Survey and a Vision [https://arxiv.org/pdf/2103.13136.pdf]
 
+DODRIO: Exploring Transformer Models with Interactive Visualization [https://arxiv.org/pdf/2103.14625.pdf]
+
+Cycle Self-Training for Domain Adaptation [https://arxiv.org/pdf/2103.03571.pdf]
