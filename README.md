@@ -16,6 +16,8 @@ MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES [https://o
 
 Complementary Evidence Identification in Open-Domain Question Answering [https://arxiv.org/pdf/2103.11643.pdf]
 
+QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering [https://arxiv.org/pdf/2104.06378.pdf]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
 
@@ -53,6 +55,10 @@ Unified Pre-training for Program Understanding and Generation [https://arxiv.org
 
 BASE Layers: Simplifying Training of Large, Sparse Models [https://arxiv.org/pdf/2103.16716.pdf]
 
+Factual Probing Is [MASK]: Learning vs. Learning to Recall https://arxiv.org/pdf/2104.05240.pdf
+
+Relational world knowledge representation in contextual language models: A review [https://arxiv.org/pdf/2104.05837.pdf]
+
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
 
@@ -61,8 +67,7 @@ Promoting Graph Awareness in Linearized Graph-to-Text Generation [https://arxiv.
 Inducing Meaningful Units from Character Sequences with Slot Attention [https://arxiv.org/pdf/2102.01223.pdf]
 
 ## Generation
-The GEM Benchmark:
-Natural Language Generation, its Evaluation and Metrics
+The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics
 
 ## DB & KB
 Technical Report on Data Integration and Preparation [https://arxiv.org/pdf/2103.01986.pdf]
@@ -87,6 +92,8 @@ Annotating Columns with Pre-trained Language Models [https://arxiv.org/pdf/2104.
 
 Survey on semantic data integration approaches: Issues and directions [http://www.semantic-web-journal.net/system/files/swj2756.pdf]
 
+Learning to Reason for Text Generation from Scientific Tables [https://openreview.net/pdf?id=_QCy6HJJ4wd]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
@@ -103,3 +110,5 @@ Representing Numbers in NLP: a Survey and a Vision [https://arxiv.org/pdf/2103.1
 DODRIO: Exploring Transformer Models with Interactive Visualization [https://arxiv.org/pdf/2103.14625.pdf]
 
 Cycle Self-Training for Domain Adaptation [https://arxiv.org/pdf/2103.03571.pdf]
+
+On Unifying Misinformation Detection [https://arxiv.org/pdf/2104.05243.pdf]
