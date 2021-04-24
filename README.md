@@ -20,6 +20,10 @@ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answeri
 
 Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge [https://arxiv.org/pdf/2104.06828.pdf]
 
+Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval [https://arxiv.org/pdf/2104.08801.pdf]
+
+Capturing Row and Column Semantics in Transformer Based Question Answering over Tables [https://arxiv.org/pdf/2104.08303.pdf]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
 
@@ -28,6 +32,10 @@ Latent Compositional Representations Improve Systematic Generalization in Ground
 Web Question Answering with Neurosymbolic Program Synthesis [https://arxiv.org/pdf/2104.07162.pdf]
 
 Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations [https://arxiv.org/pdf/2104.07478.pdf]
+
+Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog [https://arxiv.org/pdf/2104.04923.pdf]
+
+Constrained Language Models Yield Few-Shot Semantic Parsers [https://arxiv.org/pdf/2104.08768.pdf]
 
 
 ## Pretraining
@@ -67,6 +75,8 @@ Relational world knowledge representation in contextual language models: A revie
 
 Learning How to Ask: Querying LMs with Mixtures of Soft Prompts [https://arxiv.org/pdf/2104.06599.pdf]
 
+On the Influence of Masking Policies in Intermediate Pre-training [https://arxiv.org/pdf/2104.08840.pdf]
+
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
 
@@ -102,6 +112,8 @@ Survey on semantic data integration approaches: Issues and directions [http://ww
 
 Learning to Reason for Text Generation from Scientific Tables [https://openreview.net/pdf?id=_QCy6HJJ4wd]
 
+Joint Learning of Representations for Web-tables, Entities and Types using Graph Convolutional Network [https://www.aclweb.org/anthology/2021.eacl-main.102.pdf]
+
 ## MISC
 Synthesizing Context-free Grammars from Recurrent Neural Networks [https://arxiv.org/pdf/2101.08200.pdf]
 
@@ -122,3 +134,5 @@ Cycle Self-Training for Domain Adaptation [https://arxiv.org/pdf/2103.03571.pdf]
 On Unifying Misinformation Detection [https://arxiv.org/pdf/2104.05243.pdf]
 
 Automatic Webpage Briefing [https://www.ruizhang.info/publications/ICDE2021_Automatic%20Webpage%20Briefing.pdf]
+
+Learning to Decompose and Organize Complex Tasks [http://ryenwhite.com/papers/ZhangNAACL2021.pdf]
