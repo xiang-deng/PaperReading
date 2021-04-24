@@ -18,10 +18,16 @@ Complementary Evidence Identification in Open-Domain Question Answering [https:/
 
 QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering [https://arxiv.org/pdf/2104.06378.pdf]
 
+Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge [https://arxiv.org/pdf/2104.06828.pdf]
+
 ### Semantic Parsing
 Optimizing Deeper Transformers on Small Datasets: An Application on Text-to-SQL Semantic Parsing [https://arxiv.org/pdf/2012.15355.pdf]
 
 Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering [https://arxiv.org/pdf/2007.00266.pdf]
+
+Web Question Answering with Neurosymbolic Program Synthesis [https://arxiv.org/pdf/2104.07162.pdf]
+
+Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations [https://arxiv.org/pdf/2104.07478.pdf]
 
 
 ## Pretraining
@@ -58,6 +64,8 @@ BASE Layers: Simplifying Training of Large, Sparse Models [https://arxiv.org/pdf
 Factual Probing Is [MASK]: Learning vs. Learning to Recall https://arxiv.org/pdf/2104.05240.pdf
 
 Relational world knowledge representation in contextual language models: A review [https://arxiv.org/pdf/2104.05837.pdf]
+
+Learning How to Ask: Querying LMs with Mixtures of Soft Prompts [https://arxiv.org/pdf/2104.06599.pdf]
 
 ## Modeling
 TRANSFORMER-XH: MULTI-EVIDENCE REASONING WITH EXTRA HOP ATTENTION [https://openreview.net/pdf?id=r1eIiCNYwS]
@@ -112,3 +120,5 @@ DODRIO: Exploring Transformer Models with Interactive Visualization [https://arx
 Cycle Self-Training for Domain Adaptation [https://arxiv.org/pdf/2103.03571.pdf]
 
 On Unifying Misinformation Detection [https://arxiv.org/pdf/2104.05243.pdf]
+
+Automatic Webpage Briefing [https://www.ruizhang.info/publications/ICDE2021_Automatic%20Webpage%20Briefing.pdf]
